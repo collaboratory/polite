@@ -1,0 +1,16 @@
+{
+  "name": "@polite/example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "polite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@polite/scaffold": "^0.0.0",
+    "@polite/scaffold-react": "^0.0.0",
+    "@polite/spec": "^0.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

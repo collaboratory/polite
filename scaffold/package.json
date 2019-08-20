@@ -1,0 +1,11 @@
+{
+  "name": "@polite/scaffold",
+  "version": "0.0.0",
+  "description": "Scaffolding procedure for @polite/cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

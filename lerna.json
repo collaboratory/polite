@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "../emitterware/packages/*",
+    "./cli",
+    "./cli/example",
+    "./scaffold",
+    "./scaffold-koa",
+    "./scaffold-react",
+    "./spec"
+  ],
+  "version": "0.0.5"
+}
